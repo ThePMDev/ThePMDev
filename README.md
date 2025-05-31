@@ -1,7 +1,9 @@
 ## PM Dev 📈
-
-Added an image: 
+ 
 ![" Chciago Skyline"](assets/Chicago-Skyline-Night.webp)
+
+!["DPI Logo"](https://dpi.uillinois.edu/wp-content/uploads/2022/02/dpi-side-black-green-1500x535.png)
+
 
 <!--
 **ThePMDev/ThePMDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
