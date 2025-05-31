@@ -15,7 +15,7 @@ Reference-style:
 
 !["DPI Logo"](https://dpi.uillinois.edu/wp-content/uploads/2022/02/dpi-side-black-green-1500x535.png)
 
-!["DPI Logo"](file:///Users/theduke/Desktop/Chicago-Skyline-Night.webp)
+!["DPI Logo"](///Users/theduke/Desktop/Chicago-Skyline-Night.webp)
 
 
 <!--
