@@ -1,7 +1,7 @@
 ## PM Dev 📈
 
 Added an image: 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.travelweekly.com%2FHotels%2FChicago&psig=AOvVaw2OKNImXz1pCFna74i7Svbp&ust=1748787106427000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi0kOnxzY0DFQAAAAAdAAAAABAE "Chicago skyline at night")
+![alt text](https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/http://images.ntmllc.com/v4/destination/United-States/Chicago/112078_SCN_Chicago_iStock152963243_Z63079/Chicago-Illinois.jpg?tr=w-555%2Ch-311%2Cfo-auto "Chicago skyline at night")
 
 <!--
 **ThePMDev/ThePMDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
