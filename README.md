@@ -1,9 +1,5 @@
-## PM Dev 📈
-
-![" Chciago Skyline"](assets/Chicago-Skyline-Night.webp)
-
-![DPI Logo](assets/dpi_logo.png)
-
+## PM Dev 
+🤓 👨‍💻 👨‍🏫 🚀 🤷‍♂️
 <!--
 **ThePMDev/ThePMDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
