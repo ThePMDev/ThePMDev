@@ -1,8 +1,5 @@
 # Build || Learn || Repeat
 
-[To vibe or not to vibe](https://medium.com/easy-flutter/flutter-to-vibe-code-or-not-to-vibe-code-d4e43f6b3a22)
-
-
 <!--
 **ThePMDev/ThePMDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
